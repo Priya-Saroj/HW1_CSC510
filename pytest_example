@@ -1,0 +1,8 @@
+import pytest
+
+def parameter_to_test(word):
+    print("\n   Running parameter test with {}".format(word))
+    
+@pytest.fixture(params=["1", "2", "3", "4", "5"])
+def letter(request):
+    yield request.param
