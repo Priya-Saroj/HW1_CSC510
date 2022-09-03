@@ -1,3 +1,3 @@
-[![DOI](https://zenodo.org/badge/531588763.svg)](https://zenodo.org/badge/latestdoi/531588763)  ![badge](https://img.shields.io/appveyor/build/Priya_saroj/HW1_csc510?style=plasticic)
+[![DOI](https://zenodo.org/badge/531588763.svg)](https://zenodo.org/badge/latestdoi/531588763)  https://img.shields.io/appveyor/build/Priya-Saroj/HW1_CSC510?style=plastic
  
  A simple program to find square of a number.
