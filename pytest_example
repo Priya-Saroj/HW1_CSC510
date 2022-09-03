@@ -6,4 +6,4 @@ x = float(input(" Please Enter any numeric Value : "))
 
 square = x * x
 
-print("The Square of a Given Number {0}  = {1}".format(number, square))
+print("The Square of a Given Number {0}  = {1}".format(x, square))
