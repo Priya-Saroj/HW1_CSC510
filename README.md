@@ -2,3 +2,4 @@
 
  A simple program to find square of a number. Python is used here to get the square of the number
 ![badge](https://github.com/Priya-Saroj/HW1_CSC510/blob/main/square_of_a_number.py)
+![badge](https://img.shields.io/github/Priya-Saroj/HW1_CSC510/blob/main/square_of_a_number.py)
